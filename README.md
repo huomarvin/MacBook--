@@ -31,11 +31,7 @@
 
 [**Dash**](https://pan.baidu.com/s/1u4fH7_0QxoJTvAA4Hm07TQ) **Dash for Mac** 是一个API文档浏览器，以及代码片段管理工具。Dash帮助你存储代码片段，以及即时搜索和浏览文档，您几乎可以下载使用任何的API。密码:zn37
 
-![image-20180531114627199](http://photos.logrolling.cn/2018-05-31-034627.png)
-
 [**Cakebrew**](https://www.cakebrew.com/)  **Cakebrew** 是Mac OS X 平台上的Homebrew GUI 应用。 主要特性： 搜索公式安装，卸载，升级更新Homebrew 运行brew 清理工具. 
-
-![image-20180531114752521](http://photos.logrolling.cn/2018-05-31-034752.png)
 
 [**Cornerstone for Mac**](https://pan.baidu.com/s/1EjITSJLMT6hcUIq4SpaWpA) 是一款非常好用的SVN客户端工具，使用全新的Cornerstone for Mac更聪明地工作。拥有一个令人惊叹的新设计，提高了工作流程，并提高性能 - Cornerstone 3是一个强大的工具。对所有的Subversion的丰富功能全面支持，重要的版本控制现在比以往任何时候都更容易。密码:bims
 
